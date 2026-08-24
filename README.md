@@ -2,7 +2,7 @@
 <!-- Visitor Container --> 
 <div align="right">
   <!-- Visitor Counter --> 
-  <img src="https://komarev.com/ghpvc/?username=alexdreyesz&color=a277ff&style=plastic&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=alexdreyesz-diger&color=a277ff&style=plastic&label=PROFILE+VIEWS"/>
 </div>
 
 
@@ -55,12 +55,12 @@
 
 <!-- LEFT COLUMN: 2 stacked cards -->
 <!-- GitHub Graph --> 
-<img src="https://github-readme-stats-six-pearl-31.vercel.app/api?username=alexdreyesz&show_icons=true&include_all_commits=true&count_private=true&theme=aura&custom_title=GitHub%20Stats&border_radius=7" height="200" />
+<img src="https://github-readme-stats-six-pearl-31.vercel.app/api?username=alexdreyesz-diger&show_icons=true&include_all_commits=true&count_private=true&theme=aura&custom_title=GitHub%20Stats&border_radius=7" height="200" />
 
 <br>
 
  <!-- Streak Graph --> 
-<img src="https://streak-stats.demolab.com?user=alexdreyesz&theme=aura&border_radius=7" height="184" />
+<img src="https://streak-stats.demolab.com?user=alexdreyesz-diger&theme=aura&border_radius=7" height="184" />
 
 </td>
 
@@ -68,7 +68,7 @@
 
 <!-- RIGHT COLUMN: Tall card -->
  <!-- Coding Languages Graph --> 
-<img src="https://github-readme-stats-six-pearl-31.vercel.app/api/top-langs?username=alexdreyesz&layout=donut-vertical&langs_count=8&theme=aura&border_radius=7&custom_title=Coding%20Languages" height="400" />
+<img src="https://github-readme-stats-six-pearl-31.vercel.app/api/top-langs?username=alexdreyesz-diger&layout=donut-vertical&langs_count=8&theme=aura&border_radius=7&custom_title=Coding%20Languages" height="400" />
 
 </td>
 </tr>
@@ -472,14 +472,14 @@
 
 <!-- Snake Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/alexdreyesz-diger/alexdreyesz-diger/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br> <!-- Makaing Space With Break Lines --> 
 
 <!-- Graph Chart --> 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" widht="300" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz-diger&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" widht="300" height="300" alt="activity-graph graph"  />
 </div>
 
 <br> <br> <!-- Makaing Space With Break Lines --> 
